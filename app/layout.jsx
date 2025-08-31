@@ -6,8 +6,8 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 export const metadata = {
-  title: "Gaurav Dadhich | Portfolio",
-  description: "Portfolio of Gaurav Dadhich, a Full Stack Developer",
+  title: "Deepak Deora | Portfolio",
+  description: "Portfolio of Deepak Deora, a Full Stack Developer",
   // viewport: {
   //   width: "device-width",
   //   initialScale: 1,
